@@ -31,11 +31,12 @@ data
 
 
 Recommendations_with_IBM.ipynb # Jupyter notebook     
-Recommendations_with_IBM.ipynb # html of jupyter notebook     
+Recommendations_with_IBM.pdf # pdf of jupyter notebook     
 project_tests.py # project tests python script
 top_10.p
 top_20.p
 top_5.p
+user_item_matrix.p
 
 README.md    
 
